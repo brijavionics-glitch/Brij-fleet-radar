@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas
+requests
+openpyxl
+xlrd
+python-docx
+pdfplumber
+pytesseract
+Pillow
